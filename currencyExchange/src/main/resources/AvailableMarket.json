@@ -1,0 +1,26 @@
+{
+	"currencies": [
+		{
+			"currencyName": "Euro",
+			"price": 80
+		},
+		{
+			"currencyName": "Pound",
+			"price": 90
+		},
+		{
+			"currencyName": "USD",
+			"price": 75
+		}
+	],
+	"trades": [
+		{
+			"take": "Euro",
+			"give": "USD"
+		},
+		{
+			"take": "USD",
+			"give": "Pound"
+		}
+	]
+}

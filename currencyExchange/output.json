@@ -1,0 +1,15 @@
+{
+  "actions" : [ {
+    "action" : "trade",
+    "give" : "USD",
+    "take" : "Euro"
+  }, {
+    "action" : "trade",
+    "give" : "Pound",
+    "take" : "USD"
+  }, {
+    "action" : "sell",
+    "currencyName" : "Pound",
+    "price" : 90.0
+  } ]
+}
